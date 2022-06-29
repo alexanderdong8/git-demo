@@ -7,3 +7,7 @@ for x in range(len(names)):
         print("not first")
     print(names[x])
 
+x = 21
+
+if x < 30:
+    print("x is less than 30")
